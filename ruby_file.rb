@@ -1,7 +1,7 @@
 store = Hash.new()
 array = Array.new()
 File.open("./input.txt", "r").each_line do | line | 
-   options = line.split()
+   options = line.split(';')
    store[options[0]] = Hash.new()
    person = store[options[0]]
    person[:fail] = options[1]
@@ -21,7 +21,6 @@ store["Jimmy"][:fn] = method(:jimmy_f)
 
 def nat_f(array)
    # Find the highest value in the hash
-   return 6
 end
 store["Nat"][:fn] = method(:nat_f)
 

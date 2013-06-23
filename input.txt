@@ -1,5 +1,5 @@
-Jimmy Farner 12 SUCCESS
-Nat Ellen 6 Nat
-Nick Steve 9 Sofia
-Foreman Jax 62 Kort
-Dihno Someone 21772800 Eric
+Jimmy;James is bad;12;James is the best
+Nat;Nat Loses;6;Nat wins
+Nick;Nick Loses;9;Nick Wins
+Foreman;Jax Loses;62;Foreman wins!
+Dihno;Dihno Loses;21772800;Dihno Wins!
